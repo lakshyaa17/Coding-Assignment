@@ -1,0 +1,29 @@
+.calculator {
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    background-color: darkgray;
+  }
+
+  input[type="text"] {
+    width: fit-content;
+    font-size: 24px;
+    padding: 10px;
+  }
+  #Allclear{
+    display: wrap;
+    padding: 10px;
+    background-color: #649c53;
+
+  }
+  .button {
+    width: 70px;
+    height: 70px;
+    font-size: 20px;
+    flex-wrap: wrap;
+    background-color: dimgray;
+    color: aliceblue;
+    
+  }
